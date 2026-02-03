@@ -1,0 +1,15 @@
+h1 {
+  color: #000000;
+}
+
+p {
+  font-size: 1.5em;
+  color: white;
+}
+
+.profile-img {
+  width: 270px;
+  height: 600px;
+  border: 20px inset gold (59 2% 0% / 0.692);
+  border-radius: 50%;
+}
