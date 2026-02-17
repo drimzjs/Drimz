@@ -13,3 +13,8 @@ p {
   border: 20px inset gold (59 2% 0% / 0.692);
   border-radius: 50%;
 }
+
+.SMCPR {
+  background-color: black;
+  color: white;
+}
