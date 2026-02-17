@@ -1,0 +1,48 @@
+h4 {
+  color: #000000;
+}
+table {
+  border-collapse: collapse;
+  margin-bottom: 50px;
+  background-color: rgb(255, 255, 255);
+}
+.table_bg :hover {
+  background-image: url("download.jpg");
+}
+
+p: :first-line {
+  font-weight: bold;
+}
+
+.main_row {
+  background-color: gray;
+}
+
+.Shrek {
+  color: rgb(28, 189, 26);
+}
+
+.Donkey {
+  color: gray;
+}
+
+.Fiona {
+  color: rgb(28, 189, 26);
+}
+.home_button {
+  background-color: black;
+  color: white;
+}
+
+.table_bg {
+  margin: 30px;
+  border: #ddd;
+  height: 100px;
+  width: 100px;
+  text-align: left;
+  vertical-align: top;
+}
+.table_bg td {
+  height: 100px;
+  padding: 5px;
+}
